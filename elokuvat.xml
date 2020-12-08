@@ -1,9 +1,9 @@
-<?xml version="1.0!" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <elokuvakirjasto>
-    <Elokuva>
-        <Nimi></Nimi>
-        <Ohjaaja></Ohjaaja>
-        <Julkaisuvuosi></Julkaisuvuosi>
-        <Ikäraja></Ikäraja>
-    </Elokuva>
+    <elokuva>
+        <nimi></nimi>
+        <ohjaaja></ohjaaja>
+        <julkaisuvuosi></julkaisuvuosi>
+        <ikäraja></ikäraja>
+    </elokuva>
 </elokuvakirjasto>
