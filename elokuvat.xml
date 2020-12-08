@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<elokuvakirjasto>
-    <elokuva>
-        <nimi></nimi>
-        <ohjaaja></ohjaaja>
-        <julkaisuvuosi></julkaisuvuosi>
-        <ikäraja></ikäraja>
-    </elokuva>
-</elokuvakirjasto>
+<Elokuvakirjasto>
+    <Elokuva>
+        <Nimi></Nimi>
+        <Ohjaaja></Ohjaaja>
+        <Julkaisuvuosi></Julkaisuvuosi>
+        <Ikäraja></Ikäraja>
+        <Pituus></Pituus>
+    </Elokuva>
+    <Elokuva>
+        <Nimi></Nimi>
+        <Ohjaaja></Ohjaaja>
+        <Julkaisuvuosi></Julkaisuvuosi>
+        <Ikäraja></Ikäraja>
+        <Pituus></Pituus>
+    </Elokuva>
+</Elokuvakirjasto>
