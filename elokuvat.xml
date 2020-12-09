@@ -6,6 +6,7 @@
         <Julkaisuvuosi></Julkaisuvuosi>
         <Ikäraja></Ikäraja>
         <Pituus></Pituus>
+        <kieli></kieli>
     </Elokuva>
     <Elokuva>
         <Nimi></Nimi>
@@ -13,5 +14,14 @@
         <Julkaisuvuosi></Julkaisuvuosi>
         <Ikäraja></Ikäraja>
         <Pituus></Pituus>
+        <kieli></kieli>
+    </Elokuva>
+    <Elokuva>
+        <Nimi></Nimi>
+        <Ohjaaja></Ohjaaja>
+        <Julkaisuvuosi></Julkaisuvuosi>
+        <Ikäraja></Ikäraja>
+        <Pituus></Pituus>
+        <kieli></kieli>
     </Elokuva>
 </Elokuvakirjasto>
