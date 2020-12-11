@@ -1,27 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="styles.css"?>
 <Elokuvakirjasto>
     <Elokuva>
-        <Nimi></Nimi>
-        <Ohjaaja></Ohjaaja>
-        <Julkaisuvuosi></Julkaisuvuosi>
-        <Ikäraja></Ikäraja>
-        <Pituus></Pituus>
-        <kieli></kieli>
+        <Nimi>Avengers: Endgame</Nimi>
+        <Ohjaaja>Anthony Russo</Ohjaaja>
+        <Julkaisuvuosi>2019</Julkaisuvuosi>
+        <Ikäraja>12</Ikäraja>
+        <Pituus>181 minuuttia</Pituus>
+        <Kieli>Englanti</Kieli>
+        <Budjetti>356 miljoonaa</Budjetti>
+        <Genre>Toiminta, fantasiaelokuva</Genre>
     </Elokuva>
     <Elokuva>
-        <Nimi></Nimi>
-        <Ohjaaja></Ohjaaja>
-        <Julkaisuvuosi></Julkaisuvuosi>
-        <Ikäraja></Ikäraja>
-        <Pituus></Pituus>
-        <kieli></kieli>
+        <Nimi>Don't breathe</Nimi>
+        <Ohjaaja>Fede Alvarez</Ohjaaja>
+        <Julkaisuvuosi>2016</Julkaisuvuosi>
+        <Ikäraja>16</Ikäraja>
+        <Pituus>88 minuuttia</Pituus>
+        <Kieli>Englanti</Kieli>
+        <Budjetti>9,9 miljoonaa</Budjetti>
+        <Genre>Kauhu</Genre>
     </Elokuva>
     <Elokuva>
-        <Nimi></Nimi>
-        <Ohjaaja></Ohjaaja>
-        <Julkaisuvuosi></Julkaisuvuosi>
-        <Ikäraja></Ikäraja>
-        <Pituus></Pituus>
-        <kieli></kieli>
+        <Nimi>Tuntematon Sotilas</Nimi>
+        <Ohjaaja>Aku Louhimies</Ohjaaja>
+        <Julkaisuvuosi>2017</Julkaisuvuosi>
+        <Ikäraja>12</Ikäraja>
+        <Pituus>179 minuuttia</Pituus>
+        <Kieli>Suomi</Kieli>
+        <Budjetti>7 miljoonaa</Budjetti>
+        <Genre>Sotakertomus</Genre>
     </Elokuva>
 </Elokuvakirjasto>

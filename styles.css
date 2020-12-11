@@ -1,0 +1,41 @@
+Elokuva {
+    display: block;
+    margin: 20px;
+    border:1px solid rgb(41, 76, 233);
+    background-color: rgb(80, 230, 105);
+    padding: 10px;
+}
+
+Nimi {
+    display: block;
+    font-weight: bold;
+    font-size: larger;
+}
+
+Ohjaaja {
+    display: block;
+}
+
+Julkaisuvuosi {
+    display: block;
+}
+
+Ikäraja {
+    display: block;
+}
+
+Pituus {
+    display: block;
+}
+
+Kieli {
+    display: block;
+}
+
+Budjetti {
+    display: block;
+}
+
+Genre {
+    display: block;
+}
