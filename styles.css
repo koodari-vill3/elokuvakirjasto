@@ -2,7 +2,7 @@ Elokuva {
     display: block;
     margin: 20px;
     border:1px solid rgb(41, 76, 233);
-    background-color: rgb(142, 231, 238);
+    background-color: rgb(163, 163, 163);
     padding: 10px;
 }
 
@@ -10,6 +10,7 @@ Nimi {
     display: block;
     font-weight: bold;
     font-size: larger;
+    
 }
 
 Ohjaaja {
