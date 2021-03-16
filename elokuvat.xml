@@ -2,33 +2,33 @@
 <?xml-stylesheet type="text/xsl" href="style.xsl"?>
 <Elokuvakirjasto>
     <Elokuva>
-        <Nimi>Avengers: Endgame</Nimi>
-        <Ohjaaja>Anthony Russo</Ohjaaja>
-        <Julkaisuvuosi>2019</Julkaisuvuosi>
-        <Ikäraja>12</Ikäraja>
-        <Pituus>181 minuuttia</Pituus>
-        <Kieli>Englanti</Kieli>
-        <Budjetti>356 miljoonaa</Budjetti>
-        <Genre>Toiminta, fantasiaelokuva</Genre>
+        <Nimi>Nimi: Avengers: Endgame</Nimi>
+        <Ohjaaja>Ohjaaja: Anthony Russo</Ohjaaja>
+        <Julkaisuvuosi>Julkaisuvuosi: 2019</Julkaisuvuosi>
+        <Ikäraja>Ikäraja: 12</Ikäraja>
+        <Pituus>Pituus: 181 minuuttia</Pituus>
+        <Kieli>Kieli: Englanti</Kieli>
+        <Budjetti>Budjetti: 356 miljoonaa</Budjetti>
+        <Genre>Genre: Toiminta, fantasiaelokuva</Genre>
     </Elokuva>
     <Elokuva>
-        <Nimi>Don't breathe</Nimi>
-        <Ohjaaja>Fede Alvarez</Ohjaaja>
-        <Julkaisuvuosi>2016</Julkaisuvuosi>
-        <Ikäraja>16</Ikäraja>
-        <Pituus>88 minuuttia</Pituus>
-        <Kieli>Englanti</Kieli>
-        <Budjetti>9,9 miljoonaa</Budjetti>
-        <Genre>Kauhu</Genre>
+        <Nimi>Nimi: Don't breathe</Nimi>
+        <Ohjaaja>Ohjaaja: Fede Alvarez</Ohjaaja>
+        <Julkaisuvuosi>Julkaisuvuosi: 2016</Julkaisuvuosi>
+        <Ikäraja>Ikäraja: 16</Ikäraja>
+        <Pituus>Pituus: 88 minuuttia</Pituus>
+        <Kieli>Kieli: Englanti</Kieli>
+        <Budjetti>Budjetti: 9,9 miljoonaa</Budjetti>
+        <Genre>Genre: Kauhu</Genre>
     </Elokuva>
     <Elokuva>
-        <Nimi>Tuntematon Sotilas</Nimi>
-        <Ohjaaja>Aku Louhimies</Ohjaaja>
-        <Julkaisuvuosi>2017</Julkaisuvuosi>
-        <Ikäraja>12</Ikäraja>
-        <Pituus>179 minuuttia</Pituus>
-        <Kieli>Suomi</Kieli>
-        <Budjetti>7 miljoonaa</Budjetti>
-        <Genre>Sotakertomus</Genre>
+        <Nimi>Nimi: Tuntematon Sotilas</Nimi>
+        <Ohjaaja>Ohjaaja: Aku Louhimies</Ohjaaja>
+        <Julkaisuvuosi>Julkaisuvuosi: 2017</Julkaisuvuosi>
+        <Ikäraja>Ikäraja: 12</Ikäraja>
+        <Pituus>Pituus: 179 minuuttia</Pituus>
+        <Kieli>Kieli: Suomi</Kieli>
+        <Budjetti>Budjetti: 7 miljoonaa</Budjetti>
+        <Genre>Genre: Sotakertomus</Genre>
     </Elokuva>
 </Elokuvakirjasto>
