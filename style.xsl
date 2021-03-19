@@ -9,7 +9,6 @@
                         border: 1px solid black;
                         margin: 10px;
                         padding: 5px;
-                        border:1px solid rgb(41, 76, 233);
                         background-color: rgb(142, 231, 238);
                         font-size: 15px;
                         font-family: monospace;
