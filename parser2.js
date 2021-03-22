@@ -9,7 +9,7 @@ function loadXML (){
         xmlDoc = this.responseXML;
         parseXML(i);
     }
-    ajax.open("GET", "elokuvat.xml", true);
+    ajax.open("GET", "data.xml", true);
     ajax.send();
 }
 
@@ -35,14 +35,14 @@ function parseXML(index){
         i = elokuvat.length - 1;
     }
 
-    let htmlData = "<h2>" + elokuuvat[index].getElementsByTagName("Nimi")[0].childNodes[0].nodeValue + "</h2>";
-    htmlData += "<h3>" + elokuuvat[index].getElementsByTagName("Ohjaaja")[0].childNodes[0].nodeValue + "</h3>";
-    htmlData += "<p>" + elokuuvat[index].getElementsByTagName("Julkaisuvuosi")[0].childNodes[0].nodeValue + "</p>";
-    htmlData += "<p>" + elokuuvat[index].getElementsByTagName("Ikäraja")[0].childNodes[0].nodeValue + "</p>";
-    htmlData += "<p>" + elokuuvat[index].getElementsByTagName("Pituus")[0].childNodes[0].nodeValue + "</p>";
-    htmlData += "<p>" + elokuuvat[index].getElementsByTagName("Kieli")[0].childNodes[0].nodeValue + "</p>";
-    htmlData += "<p>" + elokuuvat[index].getElementsByTagName("Budjetti")[0].childNodes[0].nodeValue + "</p>";
-    htmlData += "<p>" + elokuuvat[index].getElementsByTagName("Genre")[0].childNodes[0].nodeValue + "</p>";
+    let htmlData = "<h2>" + elokuvat[index].getElementsByTagName("Nimi")[0].childNodes[0].nodeValue + "</h2>";
+    htmlData += "<h3>" + elokuvat[index].getElementsByTagName("Ohjaaja")[0].childNodes[0].nodeValue + "</h3>";
+    htmlData += "<p>" + elokuvat[index].getElementsByTagName("Julkaisuvuosi")[0].childNodes[0].nodeValue + "</p>";
+    htmlData += "<p>" + elokuvat[index].getElementsByTagName("Ikäraja")[0].childNodes[0].nodeValue + "</p>";
+    htmlData += "<p>" + elokuvat[index].getElementsByTagName("Pituus")[0].childNodes[0].nodeValue + "</p>";
+    htmlData += "<p>" + elokuvat[index].getElementsByTagName("Kieli")[0].childNodes[0].nodeValue + "</p>";
+    htmlData += "<p>" + elokuvat[index].getElementsByTagName("Budjetti")[0].childNodes[0].nodeValue + "</p>";
+    htmlData += "<p>" + elokuvat[index].getElementsByTagName("Genre")[0].childNodes[0].nodeValue + "</p>";
 
     document.getElementById("elokuvat").innerHTML = htmlData;
 
