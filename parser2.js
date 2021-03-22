@@ -23,7 +23,7 @@ function prev(){
 
 function parseXML(index){
 
-    const elokuvat = xmlDoc.getElementsByTagName("elokuva");
+    const elokuvat = xmlDoc.getElementsByTagName("Elokuva");
 
     if (index < 0) {
         index = 0;
@@ -44,6 +44,6 @@ function parseXML(index){
     htmlData += "<p>" + elokuvat[index].getElementsByTagName("Budjetti")[0].childNodes[0].nodeValue + "</p>";
     htmlData += "<p>" + elokuvat[index].getElementsByTagName("Genre")[0].childNodes[0].nodeValue + "</p>";
 
-    document.getElementById("elokuvat").innerHTML = htmlData;
+    document.getElementById("elokuva").innerHTML = htmlData;
 
 }
